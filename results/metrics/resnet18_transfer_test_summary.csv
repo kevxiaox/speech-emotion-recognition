@@ -1,0 +1,2 @@
+model,test_loss,test_accuracy,macro_f1,weighted_f1,test_samples
+ResNet18 transfer learning,1.5883033951123555,0.5666666666666667,0.545680207781868,0.5413181475599184,240
