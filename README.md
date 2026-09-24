@@ -38,3 +38,10 @@ The Streamlit application can record or upload speech, display its Log-Mel spect
 ## Dataset
 
 The original RAVDESS audio files are not included because of their size.
+
+## Team members and contributions
+
+This project was completed by a team of two students.
+
+- **Junjie Xiao**: Dataset preparation, speaker-independent splitting, feature extraction, implementation and training of the scratch CNN and ResNet18 transfer-learning model, and model evaluation.
+- **Pengkun Xu**: Web-application testing, verification of the inference pipeline, review of result visualisations, documentation, and final project validation.
